@@ -1,7 +1,7 @@
 ---
 title: "Hanuman Chalisa Doha"
 excerpt: "Psychology Lessons in the Hanuman Chalisa"
-cover_url: "https://github.com/nitinupadhyaya/karmic-blog-content/edit/main/blogs/generated_image.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/generated_image.png"
 created_at: "2025-10-15"
 reading_time: 6
 ---
