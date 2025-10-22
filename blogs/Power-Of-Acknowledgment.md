@@ -3,17 +3,46 @@ title: "Power of Acknowledgment"
 excerpt: "Psychology Lessons in Indian Verses"
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/generated_image.png"
 created_at: "2025-10-22"
-reading_time: 5
+reading_time: 5 
 ---
 
- In Hindu tradition, while mantras do not contain the name of the rishi, the hymns in the Vedas are associated with the sages who received and revealed them. These sages, or rishis, are considered mantra-drashta (seers of the mantras), not the creators (mantra-karta), since the knowledge of the Vedas is believed to be eternal and revealed to them through deep meditation. 
-The association between a hymn (sukta) and its rishi is formally listed in the Anukramani (indices) of the Vedas. When reciting a mantra or hymn from the Vedas, the rishi, meter (chandas), and deity (devata) are traditionally invoked first. 
-Examples from the Rigveda
-Gayatri Mantra (Rigveda 3.62.10): This is one of the most famous examples. The rishi associated with the Gayatri Mantra is Vishwamitra, who is also credited with revealing most of Mandala 3 of the Rigveda.
-Atri Mandala (Rigveda, Mandala 5): The fifth book (mandala) of the Rigveda is named the Atri Mandala because its hymns were revealed to the Rishi Atri and his descendants.
-Other prominent rishis: The Rigveda contains hymns revealed to many other prominent rishis, including:
-Vashistha: Composed hymns dedicated to deities like Agni and Indra.
-Bharadvaja: One of the seven great sages (saptarishis) who revealed many hymns.
-Gotama: Another ancient Vedic rishi associated with hymns in the Rigveda. 
-The tradition in practice
-The practice of invoking the rishi before reciting a mantra is a sign of reverence for the sage who revealed the divine knowledge. For example, before beginning the recitation of the Vishnu Sahasranama, a declaration is made: Sri Veda Vyaso Bhagavan Rishi..., indicating that Veda Vyasa is the rishi of this particular verse. This practice is found throughout Vedic and post-Vedic literature. 
+# Before You Begin, Bow to the Source
+
+In a world that rewards speed, originality, and self-branding, one quiet virtue is fading fast — acknowledgment.
+We quote, remix, and reinvent endlessly, yet often forget the shoulders on which our ideas stand.  
+
+Our ancient traditions, however, teach us something profoundly different.   
+
+## The Reverence Before the Recitation
+
+In the Hindu way, every mantra begins with a sankalpa — an invocation. Before the words themselves are uttered, we remember the Rishi (sage) who first received that mantra, the Chandas (metre) that gives it rhythm, and the Deva (divine principle) it awakens.  
+
+This is not ritual for ritual’s sake — it is gratitude codified into culture.
+Take the Gayatri Mantra, one of the most revered verses in the Vedas:
+** Om Bhūr Bhuvaḥ Svaḥ,
+Tat Savitur Vareṇyaṃ,
+Bhargo Devasya Dhīmahi,
+Dhiyo Yo Naḥ Prachodayāt. **
+
+Before chanting it, one recalls Rishi Vishwamitra, the sage to whom the mantra was revealed. This acknowledgment isn’t about authorship — the mantra is eternal, not “written” by him — but about reverence for the consciousness that received it.
+
+It’s a reminder: wisdom is not owned, it is received — and passed forward with gratitude.
+
+## Ancient Code, Modern Relevance
+
+Imagine if our modern creators, coders, writers, and thinkers practiced a similar ritual.
+Before publishing a paper, launching a startup, or uploading a video, we paused to name the mentors, teachers, and thinkers whose ideas shaped ours.
+What if every viral trend began with a quiet note:
+“Inspired by…”
+“Learnt from…”
+“Built upon the work of…”
+
+Far from diminishing our originality, such acknowledgment deepens it. It connects us to lineage — a chain of learning that began long before us and will continue long after.
+
+## Why It Matters Now
+In an age of AI-generated content and infinite sharing, authenticity will no longer be defined by who said it first, but by who said it with awareness.
+Gratitude becomes the new marker of wisdom. Just as the seers invoked the Rishi before uttering sacred sound, we too can invoke our sources before speaking, writing, or creating. It’s a simple act — but it transforms learning into living tradition.
+
+** So the next time you post, publish, or present, remember Vishwamitra — the sage who stood humbly before the infinite and received light. **
+And then, before you begin, bow to your source.
+
