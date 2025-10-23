@@ -19,10 +19,10 @@ In the Hindu way, every mantra begins with a sankalpa — an invocation. Before 
 
 This is not ritual for ritual’s sake — it is gratitude codified into culture.
 Take the Gayatri Mantra, one of the most revered verses in the Vedas:
-** Om Bhūr Bhuvaḥ Svaḥ,
+*Om Bhūr Bhuvaḥ Svaḥ,
 Tat Savitur Vareṇyaṃ,
 Bhargo Devasya Dhīmahi,
-Dhiyo Yo Naḥ Prachodayāt. **
+Dhiyo Yo Naḥ Prachodayāt.*
 
 Before chanting it, one recalls Rishi Vishwamitra, the sage to whom the mantra was revealed. This acknowledgment isn’t about authorship — the mantra is eternal, not “written” by him — but about reverence for the consciousness that received it.
 
@@ -43,6 +43,6 @@ Far from diminishing our originality, such acknowledgment deepens it. It connect
 In an age of AI-generated content and infinite sharing, authenticity will no longer be defined by who said it first, but by who said it with awareness.
 Gratitude becomes the new marker of wisdom. Just as the seers invoked the Rishi before uttering sacred sound, we too can invoke our sources before speaking, writing, or creating. It’s a simple act — but it transforms learning into living tradition.
 
-** So the next time you post, publish, or present, remember Vishwamitra — the sage who stood humbly before the infinite and received light. **
+*So the next time you post, publish, or present, remember Vishwamitra — the sage who stood humbly before the infinite and received light.*
 And then, before you begin, bow to your source.
 
