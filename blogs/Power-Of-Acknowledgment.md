@@ -43,6 +43,5 @@ Far from diminishing our originality, such acknowledgment deepens it. It connect
 In an age of AI-generated content and infinite sharing, authenticity will no longer be defined by who said it first, but by who said it with awareness.
 Gratitude becomes the new marker of wisdom. Just as the seers invoked the Rishi before uttering sacred sound, we too can invoke our sources before speaking, writing, or creating. It’s a simple act — but it transforms learning into living tradition.
 
-*So the next time you post, publish, or present, remember Vishwamitra — the sage who stood humbly before the infinite and received light.*
-And then, before you begin, bow to your source.
+So the next time you post, publish, or present, remember Vishwamitra — the sage who stood humbly before the infinite and received light.And then, before you begin, bow to your source.
 
