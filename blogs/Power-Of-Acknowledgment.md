@@ -3,7 +3,7 @@ title: "Power of Acknowledgment"
 excerpt: "Psychology Lessons in Indian Verses"
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Bowing.png"
 created_at: "2025-10-22"
-reading_time: 5 
+reading_time: 6 
 ---
 
 # Before You Begin, Bow to the Source
