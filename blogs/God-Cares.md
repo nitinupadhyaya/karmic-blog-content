@@ -6,11 +6,9 @@ created_at: "2025-10-24"
 reading_time: 6 
 ---
 
-# Verse: "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।
-          तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥" 
+# Verse: "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते । तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥" 
  
- ## English Translation: "To those who are ever steadfast, who worship Me with single-minded devotion,
-I carry what they lack and preserve what they have." -- By Swami Chinmayananda      
+ ## English Translation: "To those who are ever steadfast, who worship Me with single-minded devotion, I carry what they lack and preserve what they have." -- By Swami Chinmayananda      
 
  ## Psychological Interpretation  
 
@@ -21,3 +19,4 @@ The words “yoga-kṣemaṁ vahāmyaham” are especially profound:
 
 So, the Lord says, “I take care of both — acquiring what they need and protecting what they possess.”
 
+## Detailed Meaning 
