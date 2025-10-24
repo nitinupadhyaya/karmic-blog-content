@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita, Chapter 9, Verse 22 (9.22)"
 excerpt: "Psychology Lessons in Indian Verses"
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Bowing.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Geeta_Verse_9.22.png"
 created_at: "2025-10-24"
 reading_time: 6 
 ---
