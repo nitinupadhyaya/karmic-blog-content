@@ -7,6 +7,8 @@ reading_time: 6
 ---
 
  # Verse: "श्री गुरु चरण सरोज रज, निज मन मुकुरु सुधारि" 
+
+ <p class="devanagari">श्री गुरु चरण सरोज रज, निज मन मुकुरु सुधारि</p>
  
  ## English Translation: "Taking the dust of Guru's lotus feet, I clean the mirror of my mind"      
 
