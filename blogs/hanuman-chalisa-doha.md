@@ -8,8 +8,6 @@ reading_time: 6
 
  # Verse: "श्री गुरु चरण सरोज रज, निज मन मुकुरु सुधारि" 
 
- <p class="devanagari">श्री गुरु चरण सरोज रज, निज मन मुकुरु सुधारि</p>
- 
  ## English Translation: "Taking the dust of Guru's lotus feet, I clean the mirror of my mind"      
 
  ## Psychological Interpretation: "Clarity begins when we wipe the dust off our inner mirror — the ego, the noise, the rush — and see ourselves with honesty and compassion."*    
