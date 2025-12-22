@@ -180,8 +180,8 @@ Understanding emerges naturally.
 
 ---
 
-*If this resonated, you may explore our [7-day emotional reset guide](/prescription/preview).*
-
-
 Healing, in this sense, is not something we achieve.
 It is something that unfolds when the body is finally allowed to rest.
+
+---
+*If this resonated, you may explore our [7-day emotional reset guide](/prescription/preview).*
