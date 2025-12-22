@@ -177,11 +177,8 @@ It arrives through **stability**.
 
 When the nervous system feels safe, the mind no longer has to struggle for control.
 Understanding emerges naturally.
-
 ---
 
 Healing, in this sense, is not something we achieve.
 It is something that unfolds when the body is finally allowed to rest.
-
----
 *If this resonated, you may explore our [7-day emotional reset guide](/prescription/preview).*
