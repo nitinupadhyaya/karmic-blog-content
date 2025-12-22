@@ -1,7 +1,6 @@
 ---
 title: "Why the Nervous System Heals Before the Mind"
 excerpt: "You cannot think your way out of emotional overwhelm — and neuroscience explains why."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Nervous_System_Healing.png"
 created_at: "2025-11-10"
 reading_time: 7
 ---
