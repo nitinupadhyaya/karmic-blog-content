@@ -6,13 +6,6 @@ created_at: "24-10-2025"
 reading_time: 7
 ---
 
----
-title: "Emotional Stock: The Asset Nobody Teaches You to Build"
-excerpt: "Why emotional resilience works like a portfolio — and how habits across action, speech, and thought quietly protect us from life’s volatility."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Emotional_Stock.png"
-created_at: "24-10-2025"
-reading_time: 8
----
 
 # Emotional Stock: The Asset Nobody Teaches You to Build
 
