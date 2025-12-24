@@ -6,9 +6,6 @@ created_at: "24-10-2025"
 reading_time: 7
 ---
 
-
-# Emotional Stock: The Asset Nobody Teaches You to Build
-
 In finance, portfolios don’t prevent market crashes.  
 They **absorb shocks**.
 
