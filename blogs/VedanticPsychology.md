@@ -1,9 +1,11 @@
+---
 title: "The Three Layers of the Human Being: A Vedantic Psychological Perspective"
 excerpt: "Understanding the Physical, Subtle, and Causal Bodies for Emotional Clarity"
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Vedantic_Three_Bodies.jpg"
 created_at: "29-12-2025"
 reading_time: 7
 ---
+
 
 ## Introduction
 
