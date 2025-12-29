@@ -1,7 +1,7 @@
 ---
 title: "Power of Acknowledgment"
 excerpt: "Psychology Lessons in Indian Verses"
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Bowing.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Bowing.png"
 created_at: "22-10-2025"
 reading_time: 6 
 ---
