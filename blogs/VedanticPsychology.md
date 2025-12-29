@@ -18,7 +18,7 @@ According to Vedantic thought, we are not merely a physical body with a mind. We
 2. **Sūkṣma Śarīra** — the Subtle Body  
 3. **Kāraṇa Śarīra** — the Causal Body  
 
-Understanding these layers forms the foundation of what we call the **Vedantic Psychological System** — a framework that explains emotional clarity, inner conflict, and self-transformation at their root.
+Understanding these layers forms the foundation of what we call the **Vedantic Psychological System** — a framework that explains emotional clarity, inner conflict, and self-transformation at their root. In the Vedantic Psychological System, much of this inner work becomes visible most clearly in our relationships. This insight forms the foundation of  **The Relationships Lab** — a space where emotional patterns are observed not in isolation, but in real human connection.
 
 ---
 
@@ -77,7 +77,21 @@ Vedanta divides the subtle body’s psychological functioning into four precise 
 #### 4. **Citta (Memory Store)**
 - Stores impressions (*saṁskāras*)  
 - Holds past emotional residues  
-- Shapes habitual reactions  
+- Shapes habitual reactions
+
+
+### Relationships as a Mirror of the Subtle Body
+
+Our deepest emotional patterns do not surface in solitude — they surface in relationships.
+
+This is why, within the Vedantic Psychological System, we use relationships as a living laboratory.  
+In **The Relationships Lab**, interactions become mirrors:
+- Triggered emotions reveal the state of *manas*
+- Conflicts expose the rigidity of *ahaṅkāra*
+- Repeated patterns point to stored impressions in *citta*
+- Moments of clarity reflect the strength of *buddhi*
+
+Rather than fixing the other person, the focus shifts inward — toward refining the inner instruments themselves.
 
 ### Psychological Insight
 
@@ -139,7 +153,7 @@ When:
 
 …the individual naturally experiences **inner order and emotional stability**.
 
-This is the operational core of the **Vedantic Psychological System**.
+This is the operational core of the **Vedantic Psychological System**. Practices within The Relationships Lab are designed to bring this emotional clarity into lived experience — not by avoiding relationships, but by using them consciously as fields of inner observation.
 
 ---
 
@@ -170,5 +184,5 @@ This is the promise of Vedantic psychology:
 **clarity through knowledge, balance through awareness, and freedom through self-understanding.**
 
 ---
+*The Relationships Lab explores how these principles play out in real emotional life — through reflection, awareness practices, and conscious relational inquiry. In upcoming modules, we will explore practical methods to refine each antahkarana and apply these insights in daily emotional life.*
 
-*In upcoming modules, we will explore practical methods to refine each antahkarana and apply these insights in daily emotional life.*
