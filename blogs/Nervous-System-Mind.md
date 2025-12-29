@@ -1,7 +1,7 @@
 ---
 title: "Why the Nervous System Heals Before the Mind"
 excerpt: "Clear thinking returns only after the body feels safe — neuroscience and ancient wisdom agree."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/NervousSystem.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/NervousSystem.png"
 created_at: "23-12-2025"
 reading_time: 7
 ---
