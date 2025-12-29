@@ -1,7 +1,7 @@
 ---
 title: "Emotional Stock: The Asset Nobody Teaches You to Build"
 excerpt: "How emotional resilience is quietly built through action, speech, and thought — a psychological reading inspired by Karma theory, the Bhagavad Gita, and relational awareness."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Emotional_Stock.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Emotional_Stock.png"
 created_at: "24-10-2025"
 reading_time: 7
 ---
