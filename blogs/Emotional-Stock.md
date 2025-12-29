@@ -14,7 +14,7 @@ They occur when there is **no emotional capacity to absorb volatility**.
 
 This capacity is what we can call **Emotional Stock** — and more precisely, an **Emotional Portfolio**.
 
-🔹 **In the Vedantic Psychological System, this emotional capacity becomes most visible in relationships — where pressure, attachment, and expectation naturally surface. This insight forms the basis of what we call *The Relationships Lab*: a space where emotional stock is observed, tested, and refined in real interaction.**
+🔹 **In the Vedantic Psychological System, this emotional capacity becomes most visible in relationships — where pressure, attachment, and expectation naturally surface. This insight forms the basis of *The Relationships Lab*: a space where emotional stock is observed, tested, and refined in real interaction.**
 
 ---
 
