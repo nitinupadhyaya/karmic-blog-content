@@ -210,7 +210,8 @@ It is not clinical.
 It is not shaming.  
 It is rooted in **respect for natural rhythm and Shakti**.
 
-👉 [Explore the Shakti-Rhythm module](#)
+👉 [Explore the Shakti-Rhythm module](https://www.therelationshipslab.com/shakti-rythm/preview?)
+
 
 ---
 
