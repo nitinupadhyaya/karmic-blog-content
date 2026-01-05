@@ -228,7 +228,7 @@ Much of this work becomes visible through everyday interactions — where habits
 
 The Relationships Lab explores this terrain gently, using awareness and reflection rather than control or analysis.
 
-A  [E**7-day emotional reset journey**](https://www.therelationshipslab.com/prescription/preview?), designed to support steadiness across action, speech, and thought, is currently available as early access.
+A  [**7-day emotional reset journey**](https://www.therelationshipslab.com/prescription/preview?), designed to support steadiness across action, speech, and thought, is currently available as early access.
 
 You’re welcome to explore it when it feels right.
 
