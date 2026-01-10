@@ -166,5 +166,5 @@ Perhaps this is one quiet lesson of the Gita for modern psychology:
 ---
 
 *Explore more integrative perspectives at*  
-**[The Relationships Lab](https://therelationshipslab.in)**  
+**[The Relationships Lab](https://therelationshipslab.com)**  
 *— where ancient wisdom meets embodied emotional science.*
