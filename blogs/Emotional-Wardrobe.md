@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita 3.33 and the Psychology of an Emotional Wardrobe"
 excerpt: "How aligning outer form with inner dharma can transform emotional wellbeing"
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Vedantic_Three_Bodies.jpg"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Wardrobes.jpg"
 created_at: "10-01-2026"
 reading_time: 8
 tags: ["emotional wardrobe", "Bhagavad Gita psychology", "dharma and identity", "embodied cognition", "relationships lab"]
