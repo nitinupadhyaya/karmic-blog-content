@@ -1,5 +1,5 @@
 ---
-title: "Understanding Shakti Rhtym: A Man’s Guide to Menstrual Care, Dharma, and Emotional Presence"
+title: "Understanding Shakti Rhythm: A Man’s Guide to Menstrual Care, Dharma, and Emotional Presence"
 excerpt: "How men can support their partner during menstruation with emotional intelligence, respect for natural rhythms, and grounded dharmic action."
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Emotional_Stock.png"
 created_at: "04-01-2026"
