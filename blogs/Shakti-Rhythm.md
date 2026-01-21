@@ -8,16 +8,18 @@ reading_time: 7
 
 ## A Short Story Before We Begin
 
-A man once said quietly during a session,  
-> “Nothing is wrong… but everything feels heavier this week.”
-
-His partner wasn’t angry.  
-She wasn’t blaming him.  
-She wasn’t asking for anything specific.
-
-She was simply bleeding.
-
-What he didn’t know — and no one had taught him — was that **this phase asks not for fixing, but for attunement**.
+One evening, Ram noticed that the house felt unusually quiet.
+Dinner was late. Messages were short. His partner sat on the couch, wrapped in a shawl, staring at nothing in particular.
+“Are you okay?” he asked.
+“I’m fine,” she said — not sharply, just tired.
+He almost offered solutions. A walk. A joke. A distraction.
+Instead, for reasons he couldn’t explain, he went to the kitchen and made her tea.
+She took the cup, exhaled slowly, and leaned back.
+“Thank you,” she said, her voice softer now.
+Nothing had been fixed.
+But something had been understood.
+Only later did Rahul learn that this week wasn’t asking for energy or enthusiasm —
+it was asking for presence.
 
 ---
 
