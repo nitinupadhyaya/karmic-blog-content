@@ -3,7 +3,7 @@ title: "Neti Neti and Relationships: Discovering Love as Yoga, Not Role or Idea"
 excerpt: "How the ancient practice of Neti Neti helps us see what a relationship is not — and reveals love as oneness, flow, and shared sadhana."
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Neti.jpeg"
 created_at: "06-01-2026"
-reading_time: 8
+reading_time: 9
 ---
 
 ## A Short Story Before We Begin
