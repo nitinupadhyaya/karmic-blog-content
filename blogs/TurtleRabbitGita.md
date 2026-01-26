@@ -1,4 +1,4 @@
-----
+---
 title: "The Turtle, the Rabbit, and the Gita"
 excerpt: "Why Forcing a Straight Race Violates Human Nature — and What the Gita Actually Teaches"
 cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/turtle_rabbit.png"
