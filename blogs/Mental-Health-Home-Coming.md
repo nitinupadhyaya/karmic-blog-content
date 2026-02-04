@@ -1,7 +1,7 @@
 ---
 title: "Mental Health Begins at Home: A Timely Step Towards a Healthier India"
 excerpt: "Why prevention, culture, and everyday habits matter as much as institutions"
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Wardrobes.jpg"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Home.png"
 created_at: "04-02-2026"
 reading_time: 6
 ---
