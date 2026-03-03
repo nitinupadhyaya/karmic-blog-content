@@ -1,7 +1,7 @@
 ---
 title: "Paradoxical Intention vs Law of Attraction: The Psychology of Surrender"
 excerpt: "Why Letting Go May Be the Real Secret of Manifestation"
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Geeta_Verse_9.22.png"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Paradoxical_Intention.png"
 created_at: "03-03-2026"
 reading_time: 7 
 ---
