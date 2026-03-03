@@ -16,7 +16,7 @@ It wasn’t defeatist. It was protective. I would imagine the worst, accept it i
 
 Strangely, I often ended up scoring well. And when I did, the joy felt purer. There was no crushing anxiety beforehand, no catastrophic fall if things went differently. I had already surrendered to the possibility of “less.”  
 
-Looking back, was that a primitive form of **Paradoxical Intention**? Perhaps.
+Looking back, was that a primitive form of Paradoxical Intention? Perhaps.
 
 By leaning toward the feared outcome instead of resisting it, I reduced pressure. And when the outcome was better than expected, it felt like grace — not entitlement.
 
@@ -24,7 +24,7 @@ By leaning toward the feared outcome instead of resisting it, I reduced pressure
 
 ## What is Paradoxical Intention?  
 
-Developed by Austrian psychiatrist :contentReference[oaicite:0]{index=0}, founder of Logotherapy, **Paradoxical Intention (PI)** is a psychological technique where a person intentionally moves toward what they fear — often by exaggerating it mentally.
+Developed by Austrian psychiatrist Viktor Frankl, founder of Logotherapy, **Paradoxical Intention (PI)** is a psychological technique where a person intentionally moves toward what they fear — often by exaggerating it mentally.
 
 Examples:
 
@@ -42,7 +42,7 @@ PI works by dissolving anticipatory fear — the subtle tightening that blocks n
 
 ## What is the Law of Attraction?  
 
-Popularized widely through :contentReference[oaicite:1]{index=1} by :contentReference[oaicite:2]{index=2}, the **Law of Attraction (LOA)** teaches that focused thoughts and emotions attract corresponding outcomes.
+Popularized widely through the book *The Secret* by Rhonda Byrne, the **Law of Attraction (LOA)** teaches that focused thoughts and emotions attract corresponding outcomes.
 
 The method is simple:
 
@@ -95,7 +95,7 @@ And when fear loosens, performance improves.
 
 ## Where Spiritual Surrender Enters  
 
-In the :contentReference[oaicite:3]{index=3}, surrender is not passivity. It is action without attachment to results.
+In the Bhagavad Gita, surrender is not passivity. It is action without attachment to results.
 
 You act fully.  
 But inwardly, you release ownership of outcomes.
@@ -120,7 +120,7 @@ Yes — but only when it emerges from inner sufficiency, not insecurity.
 
 Desire itself is not the problem. Attachment is.
 
-If one first uses PI to dissolve fear and reduce inner contraction, then intention becomes cleaner. There is no desperation beneath it.  
+If one first uses Paradoxical Intention to dissolve fear and reduce inner contraction, then intention becomes cleaner. There is no desperation beneath it.  
 
 In that state:
 
@@ -128,7 +128,7 @@ In that state:
 - You intend — but without grasping.  
 - You act — but without inner tension.  
 
-This could be called a psychologically grounded spirituality of manifestation.
+This becomes a psychologically grounded spirituality of manifestation.
 
 Not “I must get this.”  
 But “I am willing to receive — or not.”
@@ -162,8 +162,10 @@ Paradoxical Intention cultivates freedom.
 And perhaps real manifestation begins not with demanding the universe —  
 but with becoming inwardly unafraid of any outcome.
 
-In psychological terms, PI reduces anticipatory anxiety.  
-In spiritual terms, it embodies surrender.
+---
 
-And perhaps true transformation happens not when we force reality to obey us —  
-but when we loosen our grip and trust that what is meant will unfold naturally.
+## Further Reading  
+
+- Viktor E. Frankl — *Man’s Search for Meaning*  
+- Rhonda Byrne — *The Secret*  
+- The Bhagavad Gita
