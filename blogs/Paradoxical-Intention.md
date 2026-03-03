@@ -14,7 +14,7 @@ As a child, before exam results were announced, I had a strange habit. I would q
 
 It wasn’t defeatist. It was protective. I would imagine the worst, accept it internally — and then wait.  
 
-Strangely, I often ended up scoring well. And when I did, the joy felt purer. There was no crushing anxiety beforehand, no catastrophic fall if things went differently. I had already surrendered to the possibility of “less.”  
+Strangely, I often ended up scoring decently well as far as the academic standards of our times were concerned! And when I did, the joy felt purer. There was no crushing anxiety beforehand, no catastrophic fall if things went differently. I had already surrendered to the possibility of “less.”  
 
 Looking back, was that a primitive form of Paradoxical Intention? Perhaps.
 
