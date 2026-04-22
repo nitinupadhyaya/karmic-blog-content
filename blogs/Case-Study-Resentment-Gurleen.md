@@ -1,7 +1,7 @@
 ---
 title: "The Silent Chasm: How Saying ‘Yes’ Builds Resentment in Relationships"
 excerpt: "A psychological case study on how inability to set boundaries, especially with parents, leads to resentment, disengagement, and emotional distance in marriage."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Resentment.jpg"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Resentment.png"
 created_at: "22-04-2026"
 reading_time: 10
 keywords: ["resentment in relationships", "setting boundaries in marriage", "saying no in relationships", "mother in law conflict psychology", "emotional disengagement marriage", "people pleasing behavior relationships", "communication gaps marriage", "family interference marriage India", "couples therapy India", "relationship counselling boundaries", "psychology of resentment", "emotional burnout relationships", "assertiveness in marriage", "Indian family dynamics marriage", "relationships lab case study"]
