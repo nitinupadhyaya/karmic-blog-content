@@ -1,7 +1,7 @@
 ---
 title: "The Silent Chains of Comparison: Breaking Free from Tall Poppy Syndrome in Relationships"
 excerpt: "A psychological case study on comparison, self-worth, and how Tall Poppy Syndrome affects couples, personal growth, and emotional well-being."
-cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Couple.jpg"
+cover_url: "https://raw.githubusercontent.com/nitinupadhyaya/karmic-blog-content/main/blogs/Images/Couple.jpeg"
 created_at: "04-05-2026"
 reading_time: 10
 keywords: ["tall poppy syndrome psychology", "comparison in relationships", "feeling left behind in life", "self worth and comparison", "couples therapy case study", "social comparison theory psychology", "overcoming jealousy and insecurity", "emotional resilience in relationships", "healthy boundaries social media", "internal locus of control psychology", "relationship growth mindset", "mental health India relationships", "comparison anxiety social media", "self esteem in couples", "relationships lab case study"]
